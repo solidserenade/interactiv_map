@@ -1,0 +1,19 @@
+.regioName, .regioNamber{
+	font-size: 30pt;
+	position: absolute;
+	z-index: 10;
+	/* text-shadow: 1px 1px 5px white; */
+	text-shadow: 1px 1px 2px gray, 0 0 1em brown, 0 0 0.2em white;
+	user-select: none;
+}
+
+.colorFAQ {
+	font-size: 13pt;
+	text-shadow: 1px 1px 2px gray, 0 0 1em brown, 0 0 0.2em white;
+}
+
+.colorFAQsmall, .colorFAQhigh {
+	color: white;
+	text-shadow: 1px 1px 2px gray, 0 0 1em brown, 0 0 0.2em black;
+	
+}
